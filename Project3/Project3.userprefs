@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SpriteShowAttribute.cs">
+    <Files>
+      <File FileName="Assets\ProjectExample.cs" Line="12" Column="25" />
+      <File FileName="..\New Unity Project\Assets\ProjectExample.cs" Line="7" Column="1" />
+      <File FileName="Assets\SpriteShowAttribute.cs" Line="60" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
